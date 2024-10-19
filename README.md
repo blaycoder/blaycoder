@@ -7,7 +7,7 @@ I'm a Frontend Developer and a student of Altschool Africa. I'm passionate about
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 💡 Fun fact: I'm an alumnus of  AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, and Vue.
 - 😊 I’m looking for help with open source projects and hackathons
 - 💼 Job interests: Front Engineer, or UI Engineer (Intern or Junior level).
