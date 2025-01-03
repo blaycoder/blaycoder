@@ -10,7 +10,7 @@ I'm a Frontend Developer and an alumnus of Altschool Africa. I'm passionate abou
 - 💡 Fun fact: I'm an alumnus of  AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Reactjs, and Vue.
 - 😊 I’m looking for help with open source projects and hackathons
-- 💼 Job interests: Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Frontend Engineer.
 - 📫 Contact me by emailing blay200tech@gmail.com.
 
 ---
